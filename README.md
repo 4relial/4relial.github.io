@@ -1,6 +1,5 @@
 # 4relial.github.io
 ## Source File
-###Twitter
-https://twitter.com/WorldOfTeyvat
-###Repository
+
+https://twitter.com/WorldOfTeyvat <br/>
 https://github.com/FortOfFans/FortOfFans.github.io
